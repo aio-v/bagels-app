@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113.427" height="119.852" viewBox="0 0 113.427 119.852">
+  <g id="Culvert_Rank_Icon" data-name="Culvert Rank Icon" transform="matrix(0.819, 0.574, -0.574, 0.819, 55.54, 0)">
+    <g id="chevron-down" transform="translate(18.925 52.345)">
+      <path id="chevron-down-2" data-name="chevron-down" d="M12.873,10.083,5.157,9.548l13.16,44.486L34.858,11.58l-8.8,1.635L18.171,37.045Z" transform="translate(-5.157 -9.548)" fill="rgba(210,188,116,0.21)"/>
+    </g>
+    <g id="crowdfire" transform="translate(0 34.1) rotate(-43)">
+      <path id="crowdfire-2" data-name="crowdfire" d="M2,27A25,25,0,0,1,27,2V7H47V27h5A25,25,0,0,1,2,27Zm40,0H37V17H27V12A15,15,0,1,0,42,27Z" transform="translate(-2 -2)" fill="rgba(210,188,116,0.21)" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

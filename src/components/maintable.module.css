@@ -1,0 +1,33 @@
+.header {
+    font-size: 18px;
+    font-family: 'Poppins';
+    font-weight: 600; 
+    background: #F5F5F5 0% 0% no-repeat padding-box; 
+    opacity: 1;
+}
+
+.table_wrapper {
+    display: flex; 
+    flex-direction: column; 
+    padding-right: 30px; 
+    padding-left: 30px;
+    max-width: calc(100% - 60px);
+}
+
+.cell {
+    font-family: 'Lora';
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.left_align {
+    text-align: left;
+}
+
+.link_hover:hover {
+    color: #869DF5;
+}
+
+@media screen and (max-width: 1024px) {
+
+}

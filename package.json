@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/lora": "^4.5.13",
+    "@fontsource/poppins": "^4.5.10",
+    "@mui/material": "^5.11.7",
     "@next/font": "13.1.6",
+    "@nivo/core": "^0.80.0",
+    "@nivo/line": "^0.80.0",
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
+    "google-spreadsheet": "^3.3.0",
+    "googleapis": "^110.0.0",
     "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
