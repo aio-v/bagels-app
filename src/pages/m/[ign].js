@@ -3,6 +3,7 @@ import { useRouter } from 'next/router';
 import { loadAllPathIGNs } from '@/lib/load-sheets';
 import { fetchMemberStats } from '@/lib/fetch-sheets';
 import MemberCards from '@/components/membercards';
+import { ComingSoon } from '@/components/error';
 
 
 export default function Member({ memberStats }) {
@@ -15,7 +16,8 @@ export default function Member({ memberStats }) {
             <meta name="viewport" content="width=device-width, initial-scale=1" />
         </Head>
         <main>
-            <MemberCards memberStats={memberStats} />
+            <ComingSoon />
+            {/* <MemberCards memberStats={memberStats} /> */}
         </main>
         </>
     )
